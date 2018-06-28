@@ -1,0 +1,24 @@
+
+body {
+		background-image: url(https://images.unsplash.com/photo-1525549609721-d0197337efa8?ixlib=rb-0.3.5&s=d73d4e626b39f60cd537bf8c2c30e77c&auto=format&fit=crop&w=500&q=60);
+        background-size: cover;
+}
+
+nav {
+    color:hsl(165, 75%, 50%);
+	text-align: right;
+	background-color:  hsla(170, 50%, 45%, 0.2);
+	border: 4px;
+
+	
+
+}
+h1 , li, p , div {
+	
+	color:red;
+	text-align: center;
+	background-color:  hsla(170, 50%, 45%, 0.05);
+	cursor: none;
+	list-style: none;
+}
+
